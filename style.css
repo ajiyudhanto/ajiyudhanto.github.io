@@ -1,0 +1,99 @@
+body {
+    background-color:rgb(31, 26, 23);
+    color: white;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.logo {
+    padding-top: 55px;
+}
+.navigasi {
+    background-color:rgb(218, 37, 29);
+    margin: 0;
+    font-weight: bold;
+    padding-left: 15px;
+    position: fixed;
+    width: 100%;
+}
+
+.navigasi li {
+    color: white;
+    display: inline-block;
+    padding: 15px;
+}
+
+.article {
+    width:500px;
+}
+
+.article p {
+    text-align: justify;
+    margin:0px;
+    padding:15px;
+}
+
+.tableMember {
+    width:700px;
+}
+
+tr td {
+    text-align: justify;
+    margin:0px;
+    padding:15px;
+}
+
+#mini {
+    font-size: 12px;
+    margin:0px;
+    padding-left:15px;
+    padding-bottom: 45px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
+
+.red {
+    background-color: rgb(218, 37, 29);
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: rgb(31, 26, 23);
+}
+
+.black {
+    background-color: rgb(31, 26, 23);
+    color: white;
+}
+
+.member {
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.comingSoon {
+    color: white;
+    padding-top: 100px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+footer {
+    background-color:rgb(218, 37, 29);
+    color: white;
+    font-size: small;
+    margin: 0;
+    Padding: 5px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+}
